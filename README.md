@@ -47,3 +47,12 @@ The notebook produces (as Earth Engine images/layers):
 Install (if needed):
 ```bash
 pip install earthengine-api geemap
+```
+---
+## Google Earth Engine Code Editor version
+
+In addition to the notebook implementation, this project also has a **Google Earth Engine (JavaScript) Code Editor** version:
+
+- **GEE Script:** https://code.earthengine.google.com/6a89040ee706eb6162294151f5e6f254
+
+This version reproduces the same active–fallow logic directly in the GEE environment, making it easy to test parameters, visualise results, and share an interactive runnable script without requiring a local Python setup.
