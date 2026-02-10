@@ -32,6 +32,7 @@ The notebook produces (as Earth Engine images/layers):
 - **Active cropland duration** (months)
 - **Fallow duration** (months since last sustained crop)
 - Optional visual inspection layers (Dynamic World/Sentinel-2 context in the map)
+<img width="1936" height="903" alt="image" src="https://github.com/user-attachments/assets/3cca9208-3f77-4b99-8911-0593df35ab99" />
 
 ---
 
