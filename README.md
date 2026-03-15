@@ -1,4 +1,4 @@
-# Enhancing Dynamic World for Active & Fallow Cropland Mapping
+# Detecting Active and Fallow Cropland from Dynamic World Time Series
 
 This repository contains a Jupyter Notebook (`active_fallow_cropland.ipynb`) that implements a **Google Earth Engine (GEE)** workflow to distinguish between:
 
